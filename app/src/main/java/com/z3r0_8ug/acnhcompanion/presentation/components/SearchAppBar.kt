@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.presentation.components
+package com.z3r0_8ug.acnhcompanion.presentation.components
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -24,7 +24,7 @@ import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
 import androidx.constraintlayout.compose.ConstraintLayout
-import com.codingwithmitch.acnhcompanion.presentation.ui.recipe_list.FoodCategory
+import com.z3r0_8ug.acnhcompanion.presentation.ui.recipe_list.FoodCategory
 
 
 @ExperimentalComposeUiApi

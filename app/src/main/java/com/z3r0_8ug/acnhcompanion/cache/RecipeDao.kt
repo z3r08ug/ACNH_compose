@@ -1,11 +1,11 @@
-package com.codingwithmitch.acnhcompanion.cache
+package com.z3r0_8ug.acnhcompanion.cache
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.codingwithmitch.acnhcompanion.cache.model.RecipeEntity
-import com.codingwithmitch.acnhcompanion.util.RECIPE_PAGINATION_PAGE_SIZE
+import com.z3r0_8ug.acnhcompanion.cache.model.RecipeEntity
+import com.z3r0_8ug.acnhcompanion.util.RECIPE_PAGINATION_PAGE_SIZE
 
 
 @Dao

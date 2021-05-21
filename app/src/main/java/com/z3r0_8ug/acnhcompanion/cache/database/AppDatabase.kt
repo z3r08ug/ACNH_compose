@@ -1,9 +1,9 @@
-package com.codingwithmitch.acnhcompanion.cache.database
+package com.z3r0_8ug.acnhcompanion.cache.database
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
-import com.codingwithmitch.acnhcompanion.cache.RecipeDao
-import com.codingwithmitch.acnhcompanion.cache.model.RecipeEntity
+import com.z3r0_8ug.acnhcompanion.cache.RecipeDao
+import com.z3r0_8ug.acnhcompanion.cache.model.RecipeEntity
 
 @Database(entities = [RecipeEntity::class ], version = 1)
 abstract class AppDatabase: RoomDatabase() {

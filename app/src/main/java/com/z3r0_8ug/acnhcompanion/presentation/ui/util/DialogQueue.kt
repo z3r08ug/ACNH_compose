@@ -1,9 +1,9 @@
-package com.codingwithmitch.acnhcompanion.presentation.ui.util
+package com.z3r0_8ug.acnhcompanion.presentation.ui.util
 
 import androidx.compose.runtime.MutableState
 import androidx.compose.runtime.mutableStateOf
-import com.codingwithmitch.acnhcompanion.presentation.components.GenericDialogInfo
-import com.codingwithmitch.acnhcompanion.presentation.components.PositiveAction
+import com.z3r0_8ug.acnhcompanion.presentation.components.GenericDialogInfo
+import com.z3r0_8ug.acnhcompanion.presentation.components.PositiveAction
 import java.util.*
 
 class DialogQueue {

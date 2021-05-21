@@ -1,10 +1,10 @@
-package com.codingwithmitch.acnhcompanion.di
+package com.z3r0_8ug.acnhcompanion.di
 
 import androidx.room.Room
-import com.codingwithmitch.acnhcompanion.cache.RecipeDao
-import com.codingwithmitch.acnhcompanion.cache.database.AppDatabase
-import com.codingwithmitch.acnhcompanion.cache.model.RecipeEntityMapper
-import com.codingwithmitch.acnhcompanion.presentation.BaseApplication
+import com.z3r0_8ug.acnhcompanion.cache.RecipeDao
+import com.z3r0_8ug.acnhcompanion.cache.database.AppDatabase
+import com.z3r0_8ug.acnhcompanion.cache.model.RecipeEntityMapper
+import com.z3r0_8ug.acnhcompanion.presentation.BaseApplication
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

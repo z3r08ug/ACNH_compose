@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.util
+package com.z3r0_8ug.acnhcompanion.util
 
 const val TAG = "AppDebug"
 

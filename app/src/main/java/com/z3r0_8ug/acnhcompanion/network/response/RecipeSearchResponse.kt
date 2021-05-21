@@ -1,6 +1,6 @@
-package com.codingwithmitch.acnhcompanion.network.response
+package com.z3r0_8ug.acnhcompanion.network.response
 
-import com.codingwithmitch.acnhcompanion.network.model.RecipeDto
+import com.z3r0_8ug.acnhcompanion.network.model.RecipeDto
 import com.google.gson.annotations.SerializedName
 
 data class RecipeSearchResponse(

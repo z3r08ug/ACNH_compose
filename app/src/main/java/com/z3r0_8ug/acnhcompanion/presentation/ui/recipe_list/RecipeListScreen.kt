@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.presentation.ui.recipe_list
+package com.z3r0_8ug.acnhcompanion.presentation.ui.recipe_list
 
 import android.util.Log
 import androidx.compose.material.ExperimentalMaterialApi
@@ -6,10 +6,10 @@ import androidx.compose.material.Scaffold
 import androidx.compose.material.rememberScaffoldState
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.ExperimentalComposeUiApi
-import com.codingwithmitch.acnhcompanion.presentation.components.RecipeList
-import com.codingwithmitch.acnhcompanion.presentation.components.SearchAppBar
-import com.codingwithmitch.acnhcompanion.presentation.theme.AppTheme
-import com.codingwithmitch.acnhcompanion.util.TAG
+import com.z3r0_8ug.acnhcompanion.presentation.components.RecipeList
+import com.z3r0_8ug.acnhcompanion.presentation.components.SearchAppBar
+import com.z3r0_8ug.acnhcompanion.presentation.theme.AppTheme
+import com.z3r0_8ug.acnhcompanion.util.TAG
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 
 @ExperimentalComposeUiApi

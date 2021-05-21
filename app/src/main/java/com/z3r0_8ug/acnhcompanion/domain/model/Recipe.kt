@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.domain.model
+package com.z3r0_8ug.acnhcompanion.domain.model
 
 import java.util.*
 

@@ -1,11 +1,11 @@
-package com.codingwithmitch.acnhcompanion.interactors.recipe
+package com.z3r0_8ug.acnhcompanion.interactors.recipe
 
-import com.codingwithmitch.food2fork.network.RecipeService
-import com.codingwithmitch.acnhcompanion.cache.RecipeDao
-import com.codingwithmitch.acnhcompanion.cache.model.RecipeEntityMapper
-import com.codingwithmitch.acnhcompanion.domain.data.DataState
-import com.codingwithmitch.acnhcompanion.domain.model.Recipe
-import com.codingwithmitch.acnhcompanion.network.model.RecipeDtoMapper
+import com.z3r0_8ug.food2fork.network.RecipeService
+import com.z3r0_8ug.acnhcompanion.cache.RecipeDao
+import com.z3r0_8ug.acnhcompanion.cache.model.RecipeEntityMapper
+import com.z3r0_8ug.acnhcompanion.domain.data.DataState
+import com.z3r0_8ug.acnhcompanion.domain.model.Recipe
+import com.z3r0_8ug.acnhcompanion.network.model.RecipeDtoMapper
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow

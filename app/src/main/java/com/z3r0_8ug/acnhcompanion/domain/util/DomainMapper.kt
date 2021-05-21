@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.domain.util
+package com.z3r0_8ug.acnhcompanion.domain.util
 
 interface DomainMapper <T, DomainModel>{
 

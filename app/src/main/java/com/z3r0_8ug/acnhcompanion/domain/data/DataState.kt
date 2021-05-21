@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.domain.data
+package com.z3r0_8ug.acnhcompanion.domain.data
 
 data class DataState<out T>(
     val data: T? = null,

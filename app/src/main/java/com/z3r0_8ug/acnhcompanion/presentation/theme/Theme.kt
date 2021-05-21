@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.presentation.theme
+package com.z3r0_8ug.acnhcompanion.presentation.theme
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -10,7 +10,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.ExperimentalComposeUiApi
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
-import com.codingwithmitch.acnhcompanion.presentation.components.*
+import com.z3r0_8ug.acnhcompanion.presentation.components.*
 import java.util.*
 
 private val LightThemeColors = lightColors(

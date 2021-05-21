@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.presentation.components
+package com.z3r0_8ug.acnhcompanion.presentation.components
 
 import androidx.compose.animation.core.*
 import androidx.compose.foundation.layout.BoxWithConstraints

@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.presentation.ui.recipe
+package com.z3r0_8ug.acnhcompanion.presentation.ui.recipe
 
 sealed class RecipeEvent{
 

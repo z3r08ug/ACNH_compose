@@ -1,12 +1,12 @@
-package com.codingwithmitch.acnhcompanion.interactors.recipe_list
+package com.z3r0_8ug.acnhcompanion.interactors.recipe_list
 
-import com.codingwithmitch.food2fork.network.RecipeService
-import com.codingwithmitch.acnhcompanion.cache.AppDatabaseFake
-import com.codingwithmitch.acnhcompanion.cache.RecipeDaoFake
-import com.codingwithmitch.acnhcompanion.cache.model.RecipeEntityMapper
-import com.codingwithmitch.acnhcompanion.domain.model.Recipe
-import com.codingwithmitch.acnhcompanion.network.data.MockWebServerResponses
-import com.codingwithmitch.acnhcompanion.network.model.RecipeDtoMapper
+import com.z3r0_8ug.food2fork.network.RecipeService
+import com.z3r0_8ug.acnhcompanion.cache.AppDatabaseFake
+import com.z3r0_8ug.acnhcompanion.cache.RecipeDaoFake
+import com.z3r0_8ug.acnhcompanion.cache.model.RecipeEntityMapper
+import com.z3r0_8ug.acnhcompanion.domain.model.Recipe
+import com.z3r0_8ug.acnhcompanion.network.data.MockWebServerResponses
+import com.z3r0_8ug.acnhcompanion.network.model.RecipeDtoMapper
 import com.google.gson.GsonBuilder
 import kotlinx.coroutines.flow.toList
 import kotlinx.coroutines.runBlocking

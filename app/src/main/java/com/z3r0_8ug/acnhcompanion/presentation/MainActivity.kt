@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.presentation
+package com.z3r0_8ug.acnhcompanion.presentation
 
 import android.os.Bundle
 import androidx.activity.compose.setContent
@@ -10,13 +10,13 @@ import androidx.hilt.navigation.HiltViewModelFactory
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavType
 import androidx.navigation.compose.*
-import com.codingwithmitch.acnhcompanion.datastore.SettingsDataStore
-import com.codingwithmitch.acnhcompanion.presentation.navigation.Screen
-import com.codingwithmitch.acnhcompanion.presentation.ui.recipe.RecipeDetailScreen
-import com.codingwithmitch.acnhcompanion.presentation.ui.recipe.RecipeViewModel
-import com.codingwithmitch.acnhcompanion.presentation.ui.recipe_list.RecipeListScreen
-import com.codingwithmitch.acnhcompanion.presentation.ui.recipe_list.RecipeListViewModel
-import com.codingwithmitch.acnhcompanion.presentation.util.ConnectivityManager
+import com.z3r0_8ug.acnhcompanion.datastore.SettingsDataStore
+import com.z3r0_8ug.acnhcompanion.presentation.navigation.Screen
+import com.z3r0_8ug.acnhcompanion.presentation.ui.recipe.RecipeDetailScreen
+import com.z3r0_8ug.acnhcompanion.presentation.ui.recipe.RecipeViewModel
+import com.z3r0_8ug.acnhcompanion.presentation.ui.recipe_list.RecipeListScreen
+import com.z3r0_8ug.acnhcompanion.presentation.ui.recipe_list.RecipeListViewModel
+import com.z3r0_8ug.acnhcompanion.presentation.util.ConnectivityManager
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import javax.inject.Inject

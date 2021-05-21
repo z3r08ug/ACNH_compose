@@ -1,7 +1,7 @@
-package com.codingwithmitch.acnhcompanion.di
+package com.z3r0_8ug.acnhcompanion.di
 
-import com.codingwithmitch.food2fork.network.RecipeService
-import com.codingwithmitch.acnhcompanion.network.model.RecipeDtoMapper
+import com.z3r0_8ug.food2fork.network.RecipeService
+import com.z3r0_8ug.acnhcompanion.network.model.RecipeDtoMapper
 import com.google.gson.GsonBuilder
 import dagger.Module
 import dagger.Provides

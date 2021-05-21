@@ -1,6 +1,6 @@
-package com.codingwithmitch.acnhcompanion.cache
+package com.z3r0_8ug.acnhcompanion.cache
 
-import com.codingwithmitch.acnhcompanion.cache.model.RecipeEntity
+import com.z3r0_8ug.acnhcompanion.cache.model.RecipeEntity
 
 class AppDatabaseFake {
 

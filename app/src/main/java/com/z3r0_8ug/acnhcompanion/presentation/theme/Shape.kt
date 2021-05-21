@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.presentation.theme
+package com.z3r0_8ug.acnhcompanion.presentation.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

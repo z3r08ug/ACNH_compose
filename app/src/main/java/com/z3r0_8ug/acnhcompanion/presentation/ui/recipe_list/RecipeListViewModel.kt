@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.presentation.ui.recipe_list
+package com.z3r0_8ug.acnhcompanion.presentation.ui.recipe_list
 
 import android.util.Log
 import androidx.compose.runtime.MutableState
@@ -6,12 +6,12 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.codingwithmitch.acnhcompanion.domain.model.Recipe
-import com.codingwithmitch.acnhcompanion.interactors.recipe_list.RestoreRecipes
-import com.codingwithmitch.acnhcompanion.interactors.recipe_list.SearchRecipes
-import com.codingwithmitch.acnhcompanion.presentation.ui.util.DialogQueue
-import com.codingwithmitch.acnhcompanion.presentation.util.ConnectivityManager
-import com.codingwithmitch.acnhcompanion.util.TAG
+import com.z3r0_8ug.acnhcompanion.domain.model.Recipe
+import com.z3r0_8ug.acnhcompanion.interactors.recipe_list.RestoreRecipes
+import com.z3r0_8ug.acnhcompanion.interactors.recipe_list.SearchRecipes
+import com.z3r0_8ug.acnhcompanion.presentation.ui.util.DialogQueue
+import com.z3r0_8ug.acnhcompanion.presentation.util.ConnectivityManager
+import com.z3r0_8ug.acnhcompanion.util.TAG
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.launchIn
 import kotlinx.coroutines.flow.onEach

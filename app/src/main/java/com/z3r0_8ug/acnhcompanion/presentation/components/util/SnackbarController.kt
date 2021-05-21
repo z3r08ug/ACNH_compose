@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.presentation.components.util
+package com.z3r0_8ug.acnhcompanion.presentation.components.util
 
 import androidx.compose.material.ExperimentalMaterialApi
 import androidx.compose.material.ScaffoldState

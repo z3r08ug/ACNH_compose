@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.network.data
+package com.z3r0_8ug.acnhcompanion.network.data
 
 object MockWebServerResponses {
 

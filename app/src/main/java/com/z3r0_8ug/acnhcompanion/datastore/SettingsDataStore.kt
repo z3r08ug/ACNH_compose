@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.datastore
+package com.z3r0_8ug.acnhcompanion.datastore
 
 import androidx.compose.runtime.mutableStateOf
 import androidx.datastore.core.DataStore
@@ -6,7 +6,7 @@ import androidx.datastore.preferences.core.Preferences
 import androidx.datastore.preferences.core.booleanPreferencesKey
 import androidx.datastore.preferences.core.edit
 import androidx.datastore.preferences.createDataStore
-import com.codingwithmitch.acnhcompanion.presentation.BaseApplication
+import com.z3r0_8ug.acnhcompanion.presentation.BaseApplication
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers.Main
 import kotlinx.coroutines.flow.launchIn

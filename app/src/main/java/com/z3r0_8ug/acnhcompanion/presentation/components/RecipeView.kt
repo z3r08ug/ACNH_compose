@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.presentation.components
+package com.z3r0_8ug.acnhcompanion.presentation.components
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
@@ -9,7 +9,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.unit.dp
-import com.codingwithmitch.acnhcompanion.domain.model.Recipe
+import com.z3r0_8ug.acnhcompanion.domain.model.Recipe
 import com.google.accompanist.coil.CoilImage
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 

@@ -1,7 +1,7 @@
-package com.codingwithmitch.acnhcompanion.interactors.app
+package com.z3r0_8ug.acnhcompanion.interactors.app
 
 import android.util.Log
-import com.codingwithmitch.acnhcompanion.util.TAG
+import com.z3r0_8ug.acnhcompanion.util.TAG
 import java.io.IOException
 import java.net.InetSocketAddress
 import javax.net.SocketFactory

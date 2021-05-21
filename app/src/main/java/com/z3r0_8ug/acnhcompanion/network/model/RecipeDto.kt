@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.network.model
+package com.z3r0_8ug.acnhcompanion.network.model
 
 import com.google.gson.annotations.SerializedName
 

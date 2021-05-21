@@ -1,6 +1,6 @@
-package com.codingwithmitch.acnhcompanion.presentation.ui.recipe_list
+package com.z3r0_8ug.acnhcompanion.presentation.ui.recipe_list
 
-import com.codingwithmitch.acnhcompanion.presentation.ui.recipe_list.FoodCategory.*
+import com.z3r0_8ug.acnhcompanion.presentation.ui.recipe_list.FoodCategory.*
 
 
 enum class FoodCategory(val value: String){

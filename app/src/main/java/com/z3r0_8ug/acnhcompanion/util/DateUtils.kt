@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.util
+package com.z3r0_8ug.acnhcompanion.util
 
 import java.lang.NullPointerException
 import java.text.SimpleDateFormat

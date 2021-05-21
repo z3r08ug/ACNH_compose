@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.presentation.theme
+package com.z3r0_8ug.acnhcompanion.presentation.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.graphics.Color
@@ -7,7 +7,7 @@ import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
-import com.codingwithmitch.acnhcompanion.R
+import com.z3r0_8ug.acnhcompanion.R
 
 
 private val QuickSand = FontFamily(

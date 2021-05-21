@@ -1,7 +1,7 @@
-package com.codingwithmitch.acnhcompanion.di
+package com.z3r0_8ug.acnhcompanion.di
 
 import android.content.Context
-import com.codingwithmitch.acnhcompanion.presentation.BaseApplication
+import com.z3r0_8ug.acnhcompanion.presentation.BaseApplication
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.presentation.util
+package com.z3r0_8ug.acnhcompanion.presentation.util
 
 import android.app.Application
 import androidx.compose.runtime.mutableStateOf

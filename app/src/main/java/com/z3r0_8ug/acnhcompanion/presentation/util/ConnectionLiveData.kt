@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.presentation.util
+package com.z3r0_8ug.acnhcompanion.presentation.util
 
 import android.content.Context
 import android.content.Context.CONNECTIVITY_SERVICE
@@ -8,7 +8,7 @@ import android.net.NetworkCapabilities.NET_CAPABILITY_INTERNET
 import android.net.NetworkRequest
 import android.util.Log
 import androidx.lifecycle.LiveData
-import com.codingwithmitch.acnhcompanion.interactors.app.DoesNetworkHaveInternet
+import com.z3r0_8ug.acnhcompanion.interactors.app.DoesNetworkHaveInternet
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

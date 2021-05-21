@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.presentation.ui.recipe
+package com.z3r0_8ug.acnhcompanion.presentation.ui.recipe
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
@@ -9,10 +9,10 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.ExperimentalComposeUiApi
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.codingwithmitch.acnhcompanion.presentation.components.IMAGE_HEIGHT
-import com.codingwithmitch.acnhcompanion.presentation.components.LoadingRecipeShimmer
-import com.codingwithmitch.acnhcompanion.presentation.components.RecipeView
-import com.codingwithmitch.acnhcompanion.presentation.theme.AppTheme
+import com.z3r0_8ug.acnhcompanion.presentation.components.IMAGE_HEIGHT
+import com.z3r0_8ug.acnhcompanion.presentation.components.LoadingRecipeShimmer
+import com.z3r0_8ug.acnhcompanion.presentation.components.RecipeView
+import com.z3r0_8ug.acnhcompanion.presentation.theme.AppTheme
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 
 @ExperimentalComposeUiApi

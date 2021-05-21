@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.cache.model
+package com.z3r0_8ug.acnhcompanion.cache.model
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

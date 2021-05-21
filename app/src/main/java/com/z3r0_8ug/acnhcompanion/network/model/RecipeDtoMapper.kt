@@ -1,8 +1,8 @@
-package com.codingwithmitch.acnhcompanion.network.model
+package com.z3r0_8ug.acnhcompanion.network.model
 
-import com.codingwithmitch.acnhcompanion.domain.model.Recipe
-import com.codingwithmitch.acnhcompanion.domain.util.DomainMapper
-import com.codingwithmitch.acnhcompanion.util.DateUtils
+import com.z3r0_8ug.acnhcompanion.domain.model.Recipe
+import com.z3r0_8ug.acnhcompanion.domain.util.DomainMapper
+import com.z3r0_8ug.acnhcompanion.util.DateUtils
 
 
 class RecipeDtoMapper : DomainMapper<RecipeDto, Recipe> {

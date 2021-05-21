@@ -1,10 +1,10 @@
-package com.codingwithmitch.acnhcompanion.presentation.ui
+package com.z3r0_8ug.acnhcompanion.presentation.ui
 
 import androidx.compose.material.ExperimentalMaterialApi
 import androidx.compose.ui.test.assertIsDisplayed
 import androidx.compose.ui.test.junit4.createAndroidComposeRule
 import androidx.compose.ui.test.onNodeWithText
-import com.codingwithmitch.acnhcompanion.presentation.MainActivity
+import com.z3r0_8ug.acnhcompanion.presentation.MainActivity
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import org.junit.Rule
 import org.junit.Test

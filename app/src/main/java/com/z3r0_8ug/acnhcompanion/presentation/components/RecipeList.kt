@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.presentation.components
+package com.z3r0_8ug.acnhcompanion.presentation.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -9,9 +9,9 @@ import androidx.compose.material.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.codingwithmitch.acnhcompanion.domain.model.Recipe
-import com.codingwithmitch.acnhcompanion.presentation.navigation.Screen
-import com.codingwithmitch.acnhcompanion.presentation.ui.recipe_list.PAGE_SIZE
+import com.z3r0_8ug.acnhcompanion.domain.model.Recipe
+import com.z3r0_8ug.acnhcompanion.presentation.navigation.Screen
+import com.z3r0_8ug.acnhcompanion.presentation.ui.recipe_list.PAGE_SIZE
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 
 @ExperimentalMaterialApi

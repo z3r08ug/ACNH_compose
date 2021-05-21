@@ -1,4 +1,4 @@
-package com.codingwithmitch.acnhcompanion.presentation.navigation
+package com.z3r0_8ug.acnhcompanion.presentation.navigation
 
 sealed class Screen(
     val route: String,
